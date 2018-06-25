@@ -1,0 +1,38 @@
+h2 {
+  color: black;
+}
+.film {
+  position: relative;
+  background-color: lightgrey;
+  color: blue;
+}
+.filmList {
+  background-color: lightgrey;
+
+}
+.favourite-button {
+  float: left;
+  display: inline-block;
+}
+.film-name {
+  display: inline-block;
+}
+
+#spec-show-time-button {
+  display: inline-block;
+
+  float: right;
+
+}
+.OpeningBox {
+  background-color: lightgrey;
+
+}
+#all-showtime-button {
+  background-color: blue;
+  color: white;
+  width: 100%;
+}
+#seemore {
+  color: blue;
+}
