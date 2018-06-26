@@ -9,10 +9,9 @@ class FilmListingBox extends React.Component{
     )
     });
     return (
-      <div>
-      <div className="film-list">{filmNodes}</div>
-
-    </div>
+      <ul>
+        <div className="film-list">{filmNodes}</div>
+      </ul>
     )
   }
 
